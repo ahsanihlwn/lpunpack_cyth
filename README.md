@@ -1,5 +1,16 @@
-# lpunpack
+## License Notice
 
+This project is a modified and repackaged version of **lpunpack**,
+originally developed by unix3dgforce and licensed under the
+GNU Lesser General Public License v3.0 (LGPL-3.0).
+
+Source code for the library portion is provided in this repository
+to comply with the terms of the LGPL.
+
+Binary releases are provided for convenience only.
+You may rebuild the binaries yourself using the provided source code.
+
+# lpunpack
 ##### lpunpack.py - command-line tool for extracting partition images from super
 
     	usage: lpunpack.py [-h] [-p NAME] [-S NUM] SUPER_IMAGE OUTPUT_DIR
