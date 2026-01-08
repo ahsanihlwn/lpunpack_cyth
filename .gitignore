@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Cython build
+*.c
+*.pyd
+*.so
+build/
+dist/
+*.build
+*.onefile-build
+*.dist
+
+# Virtual env
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
